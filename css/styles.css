@@ -1,0 +1,190 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#body{
+    background-color: #fff;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 24px;
+    text-align: right;
+   margin-top: 40px;
+    margin-right: 100px;
+}
+
+
+#body a{
+    margin-left: 24px;
+    text-decoration: none;
+    background-color: #384d97;
+    display: inline-block;
+   padding: 8px 24px;
+   border-radius: 8px;
+   color: #fff;
+    
+}
+
+#body a:hover{
+    background-color: #007CC3;
+}
+
+#body h3{
+    font-size: 24px;
+    text-align: left;
+    color: #292B33;
+    margin-left: 80px;
+
+}
+
+#body ul{
+    text-align: left;
+    margin-left: 120px;
+    margin-top: 16px;
+    color: #292B33;;
+}
+
+
+
+#menu{
+    background-color: #292B33;
+    width: auto;
+    height: 80px;
+    max-height: fit-content;
+    padding: 10px 80px;
+    
+    color:#fff;
+    
+}
+
+#menu p{
+    font-size: medium;
+    text-align: justify;
+    padding: 5px;
+        
+}
+
+
+
+
+#hero{
+    background-color: #1B2A61;
+    height: 500px;
+    text-align: center;
+    margin-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#hero h1{
+    padding-top: 120px;
+    color: #fff;
+    font-size: 56px;
+}
+
+#hero p{
+    margin: 24px;
+    color: #fff;
+    font-size: 32px;
+
+}
+
+#hero a{
+    background-color: #007CC3;
+    text-decoration: none;
+    display: inline-block;
+    padding: 24px;
+    margin-top: 32px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 8px;
+    
+}
+
+#hero a:hover{
+    background-color: #4184aa;
+}
+
+#our{
+    margin-top: 40px;
+}
+
+#our h2{
+    text-align: center;
+    font-size: 3rem;
+    color: #292B33;;
+}
+
+#our img{
+    height: 250px;
+    margin-top: 32px;
+    margin-left: 80px;
+  
+}
+
+#our img:hover{
+    background-color: #89c7eb;
+}
+
+#about {
+    background-color: #292B33;
+    height: 300px;
+    color: #ffffffc5;
+    text-align: justify;
+    
+
+}
+
+#about p{
+    margin: 16px 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#about h4{
+    margin-left: 80px;
+    padding-top: 16px;
+    font-size: 24px;
+}
+
+#about a{
+    margin-left: 80px;
+    text-decoration: none;
+    color: #0095EB;
+}
+
+#courses{
+    background-color: #000119;
+    width: auto;
+    height: 80px;
+    max-height: fit-content;
+    padding: 60px 80px;
+    margin-top: 60px;
+    
+    color:#fff;
+}
+
+#our2{
+    margin-top: 40px;
+}
+
+#our2 h3{
+    color:  #3c3e47;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#our2 p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+#form{
+    margin-left: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: #33353b;
+    
+}
